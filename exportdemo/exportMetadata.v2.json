@@ -3,56 +3,6 @@
   "sourceOrgId" : "52IAmU6muuofu1GnSuePuW",
   "sourceOrgName" : "Unico Solution",
   "exportedObjects" : [ {
-    "objectGuid" : "d1bzNUemfqrj9LkNYrVIAB",
-    "objectName" : "Prabhakar",
-    "objectType" : "AgentGroup",
-    "path" : "/SYS",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01004P25000000000009"
-      },
-      "objectRefs" : [ ],
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      },
-      "objectExistence" : "WITH_DEPENDENCIES"
-    }
-  }, {
-    "objectGuid" : "9bGYQ5bzQ5nf0VBRauvOec",
-    "objectName" : "ImportDemoMapping",
-    "objectType" : "DTEMPLATE",
-    "path" : "/Explore/Default",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01004P17000000000022"
-      },
-      "objectRefs" : [ "4QlOM7Pcd6HifLrBDO64Uu" ],
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      },
-      "objectExistence" : "WITH_DEPENDENCIES"
-    }
-  }, {
     "objectGuid" : "9ei8eef6QcZkfWPnXCe3sA",
     "objectName" : "Default",
     "objectType" : "Project",
@@ -72,33 +22,31 @@
         "description" : "Auto-generated Default Project",
         "contentType" : null,
         "documentState" : "COMPLETE"
-      },
-      "objectExistence" : "WITHOUT_DEPENDENCIES"
+      }
     }
   }, {
-    "objectGuid" : "4QlOM7Pcd6HifLrBDO64Uu",
-    "objectName" : "pra_FF",
-    "objectType" : "Connection",
-    "path" : "/SYS",
+    "objectGuid" : "j0GKvuBkmSSclC7wSxy2Ag",
+    "objectName" : "Mapping20",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Default",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01004P0B000000000015"
+        "repoHandle" : "01004P1700000000015V"
       },
-      "objectRefs" : [ "d1bzNUemfqrj9LkNYrVIAB" ],
+      "objectRefs" : [ ],
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "",
         "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      },
-      "objectExistence" : "WITH_DEPENDENCIES"
+        "documentState" : "VALID"
+      }
     }
   } ]
 }
